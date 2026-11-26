@@ -1573,5 +1573,14 @@
     "date": "2026-11-26",
     "attempts": 1,
     "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45909891036"
+  },
+  {
+    "url": "https://github.com/ekinkaradag/snake-vue3",
+    "repo": "ekinkaradag/snake-vue3",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي؛ أول خطأ: Failed to load resource: the server responded with a status of 404 (File not found)",
+    "license": "GPL-3.0",
+    "date": "2026-11-26",
+    "attempts": 1,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45910075920"
   }
 ]
