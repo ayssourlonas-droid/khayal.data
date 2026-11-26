@@ -1564,5 +1564,14 @@
     "date": "2026-11-26",
     "attempts": 1,
     "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45909665445"
+  },
+  {
+    "url": "https://github.com/codergautam/swordbattle.io",
+    "repo": "codergautam/swordbattle.io",
+    "reason": "الحجم 165MB كبير جداً",
+    "license": "GPL-3.0",
+    "date": "2026-11-26",
+    "attempts": 1,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45909891036"
   }
 ]
