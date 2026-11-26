@@ -1555,5 +1555,14 @@
     "date": "2026-11-26",
     "attempts": 1,
     "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45909328906"
+  },
+  {
+    "url": "https://github.com/HarmonyHoney/tiny_crate",
+    "repo": "HarmonyHoney/tiny_crate",
+    "reason": "لم أجد نسخة ويب (index.html) ولا أمر بناء. قد يكون مشروع Unity/Godot مصدرياً. جرّب إدخال subdir أو build_cmd",
+    "license": "Unlicense",
+    "date": "2026-11-26",
+    "attempts": 1,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45909665445"
   }
 ]
