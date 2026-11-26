@@ -1546,5 +1546,14 @@
     "date": "2026-11-20",
     "attempts": 1,
     "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/44816824854"
+  },
+  {
+    "url": "https://github.com/NiklasEi/bevy_game_template",
+    "repo": "NiklasEi/bevy_game_template",
+    "reason": "ليست لعبة: الصفحة لا تستقبل أي إدخال من اللاعب (لا لمس ولا نقر ولا مفاتيح ولا أزرار)، وكل ما فيها عرض متحرك أو صورة. اللعبة يجب أن تستجيب لما يفعله اللاعب.",
+    "license": "CC0-1.0",
+    "date": "2026-11-26",
+    "attempts": 1,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45909328906"
   }
 ]
