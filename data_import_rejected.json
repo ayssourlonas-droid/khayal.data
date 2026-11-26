@@ -929,20 +929,20 @@
   {
     "url": "https://github.com/gbrln/the-last-pawn",
     "repo": "gbrln/the-last-pawn",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي؛ أول خطأ: Failed to load resource: the server responded with a status of 404 (File not found)",
     "license": "MIT",
-    "date": "2026-11-10",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/42872526745"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45837905251"
   },
   {
     "url": "https://github.com/rootasjey/backwards",
     "repo": "rootasjey/backwards",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي؛ أول خطأ: Failed to load resource: the server responded with a status of 404 (File not found)",
     "license": "MIT",
-    "date": "2026-11-10",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/42873032257"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45837423864"
   },
   {
     "url": "https://github.com/channingbreeze/games",
@@ -1082,128 +1082,56 @@
   {
     "url": "https://github.com/tan-z-tan/GitHubGuessr",
     "repo": "tan-z-tan/GitHubGuessr",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43034277727"
+    "reason": "لم أجد نسخة ويب (index.html) ولا أمر بناء. قد يكون مشروع Unity/Godot مصدرياً. جرّب إدخال subdir أو build_cmd",
+    "license": "MIT",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45822239290"
   },
   {
     "url": "https://github.com/Insality/cosmic-dash-jam-2025",
     "repo": "Insality/cosmic-dash-jam-2025",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43036012596"
-  },
-  {
-    "url": "https://github.com/entibo/taipingu",
-    "repo": "entibo/taipingu",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43037802737"
-  },
-  {
-    "url": "https://github.com/tmptrash/gra",
-    "repo": "tmptrash/gra",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43041327362"
-  },
-  {
-    "url": "https://github.com/vincenzo-afk/XOTrix",
-    "repo": "vincenzo-afk/XOTrix",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43043089880"
-  },
-  {
-    "url": "https://github.com/TranHuuDat2004/games_tools",
-    "repo": "TranHuuDat2004/games_tools",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43044936590"
-  },
-  {
-    "url": "https://github.com/TitanPlayz100/teti",
-    "repo": "TitanPlayz100/teti",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43048726909"
-  },
-  {
-    "url": "https://github.com/kohunglee/openworld-js",
-    "repo": "kohunglee/openworld-js",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43050595577"
+    "reason": "لم أجد نسخة ويب (index.html) ولا أمر بناء. قد يكون مشروع Unity/Godot مصدرياً. جرّب إدخال subdir أو build_cmd",
+    "license": "MIT",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45836505365"
   },
   {
     "url": "https://github.com/Mocas-12/no-survivor-game",
     "repo": "Mocas-12/no-survivor-game",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43052428268"
+    "reason": "ملفات تتجاوز 25MB (حد Cloudflare) حتى بعد التقليل وتحسين الوسائط: game-cf07a85.pck (73MB), game-cf07a85.wasm (37MB)",
+    "license": "MIT",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45829006442"
   },
   {
     "url": "https://github.com/sharkwouter/oceanpop",
     "repo": "sharkwouter/oceanpop",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43054261586"
-  },
-  {
-    "url": "https://github.com/sshh12/llm_alchemy",
-    "repo": "sshh12/llm_alchemy",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43056078944"
+    "reason": "لم أجد نسخة ويب (index.html) ولا أمر بناء. قد يكون مشروع Unity/Godot مصدرياً. جرّب إدخال subdir أو build_cmd",
+    "license": "MIT",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45828702296"
   },
   {
     "url": "https://github.com/astola-studio/ZumaDeluxeAndroid",
     "repo": "astola-studio/ZumaDeluxeAndroid",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43057905025"
-  },
-  {
-    "url": "https://github.com/blancmathis/Super_Bash_Folds",
-    "repo": "blancmathis/Super_Bash_Folds",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43059705367"
+    "reason": "لم أجد نسخة ويب (index.html) ولا أمر بناء. قد يكون مشروع Unity/Godot مصدرياً. جرّب إدخال subdir أو build_cmd",
+    "license": "MIT",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45827322140"
   },
   {
     "url": "https://github.com/blackvoidx/Rock-paper-scissor",
     "repo": "blackvoidx/Rock-paper-scissor",
-    "reason": "تعطّل الاستيراد قبل إنتاج تقرير (انظر سجل التشغيل)",
-    "license": "",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43061461198"
+    "reason": "لم أجد نسخة ويب (index.html) ولا أمر بناء. قد يكون مشروع Unity/Godot مصدرياً. جرّب إدخال subdir أو build_cmd",
+    "license": "MIT",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45826002449"
   },
   {
     "url": "https://github.com/Wadan3/Puzzle-Lock",
@@ -1217,11 +1145,11 @@
   {
     "url": "https://github.com/Parking-Master/FPS2",
     "repo": "Parking-Master/FPS2",
-    "reason": "الحجم 934MB كبير جداً؛ ملفات تتجاوز 25MB (حد Cloudflare): sounds/ambience.mp3 (39MB), models/weapons/Desert_Eagle.glb (28MB), models/maps/VERTEX/scene.gltf (25MB), models/maps/GHOST/scene.gltf (37MB), models/characters/steve/Image_6.png (31MB)",
+    "reason": "الحجم 934MB كبير جداً",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43066715744"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45825535235"
   },
   {
     "url": "https://github.com/n1ght4ngel19/gruntz-unityverse",
@@ -1235,11 +1163,11 @@
   {
     "url": "https://github.com/Esposter/Esposter",
     "repo": "Esposter/Esposter",
-    "reason": "فشل البناء: فشل الأمر: ['pnpm', 'run', 'build'] (رمز 1)",
+    "reason": "فشل البناء: فشل الأمر: ['pnpm', 'install', '--no-frozen-lockfile'] (رمز 1) — Error: ERR_PNPM_EXECUTOR_LIFECYCLE_SCRIPT_FAILED | × installing dependencies | ╰─▶ /home/runner/work/khayal-control/khayal-control/work/src/apps/web postinstall: `nuxt prepare` exited with exit status: 1",
     "license": "Apache-2.0",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43068367856"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45825185407"
   },
   {
     "url": "https://github.com/3ddelano/slide-puzzle-godot",
@@ -1334,29 +1262,20 @@
   {
     "url": "https://github.com/YinkaiYu/topology-gomoku",
     "repo": "YinkaiYu/topology-gomoku",
-    "reason": "فشل البناء: فشل الأمر: ['npm', 'run', 'build'] (رمز 127)",
+    "reason": "فشل البناء: فشل الأمر: ['npm', 'run', 'build'] (رمز 127) — > topology-gomoku@1.44.1 build:xiaohongshu | > powershell -NoProfile -ExecutionPolicy Bypass -File ./scripts/build.ps1 | sh: 1: powershell: not found",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43088128947"
-  },
-  {
-    "url": "https://github.com/antonio-gaskin/pokemon-roulette-game",
-    "repo": "antonio-gaskin/pokemon-roulette-game",
-    "reason": "فشل البناء: فشل الأمر: ['npm', 'ci', '--no-audit', '--no-fund'] (رمز 1)",
-    "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43088369554"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45824929751"
   },
   {
     "url": "https://github.com/attogram/EightQueens",
     "repo": "attogram/EightQueens",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43088605796"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45821681824"
   },
   {
     "url": "https://github.com/khlebobul/pegma",
@@ -1370,11 +1289,11 @@
   {
     "url": "https://github.com/MuhammadTanveerAbbas/Nebula-Runner-Game",
     "repo": "MuhammadTanveerAbbas/Nebula-Runner-Game",
-    "reason": "فشل البناء: فشل الأمر: ['pnpm', 'install', '--no-frozen-lockfile'] (رمز 1)",
+    "reason": "فشل البناء: فشل الأمر: ['pnpm', 'install', '--no-frozen-lockfile'] (رمز 1) — ERROR  packages field missing or empty | For help, run: pnpm help install",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43090151663"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45823531634"
   },
   {
     "url": "https://github.com/lupine-dev/collectibles.js",
@@ -1397,20 +1316,20 @@
   {
     "url": "https://github.com/20essentials/project-000-751",
     "repo": "20essentials/project-000-751",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي؛ أول خطأ: JS: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43091001754"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45823089657"
   },
   {
     "url": "https://github.com/sensod9/gramoType",
     "repo": "sensod9/gramoType",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي؛ أول خطأ: Failed to load resource: the server responded with a status of 404 (File not found)",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43091492208"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45822642840"
   },
   {
     "url": "https://github.com/TriForMine/Delixia",
@@ -1451,11 +1370,11 @@
   {
     "url": "https://github.com/hb20007/truly-kryptic",
     "repo": "hb20007/truly-kryptic",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي",
     "license": "MIT",
-    "date": "2026-11-11",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/43093030611"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45836871188"
   },
   {
     "url": "https://github.com/ur1el0/Scrib",
@@ -1514,11 +1433,11 @@
   {
     "url": "https://github.com/ELEL182/bunny-hopping-mod",
     "repo": "ELEL182/bunny-hopping-mod",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
-    "license": "MIT",
-    "date": "2026-11-20",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/44792955772"
+    "reason": "GitHub API 404 لـ /repos/ELEL182/bunny-hopping-mod",
+    "license": "",
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45821399334"
   },
   {
     "url": "https://github.com/KrasimirKralev/harvest-hollow",
@@ -1532,20 +1451,20 @@
   {
     "url": "https://github.com/Parking-Master/FPS3",
     "repo": "Parking-Master/FPS3",
-    "reason": "الحجم 663MB كبير جداً؛ ملفات تتجاوز 25MB (حد Cloudflare): Desktop/FPS3 Desktop.zip (89MB), sounds/ambience.mp3 (39MB)",
+    "reason": "الحجم 663MB كبير جداً",
     "license": "MIT",
-    "date": "2026-11-20",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/44797881748"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45821000990"
   },
   {
     "url": "https://github.com/c1t1zen1/Michi-Neko-The-Cat-Philosophers-Path",
     "repo": "c1t1zen1/Michi-Neko-The-Cat-Philosophers-Path",
-    "reason": "الحجم 498MB كبير جداً؛ ملفات تتجاوز 25MB (حد Cloudflare): docs/social/tree-and-cat-devlog/tree-and-cat-devlog-vertical.mp4 (59MB), docs/social/cat-anatomy-glow-up/michi-neko-cat-anatomy-glow-up.mp4 (37MB)",
+    "reason": "الحجم 498MB كبير جداً",
     "license": "MIT",
-    "date": "2026-11-20",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/44799050236"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45820601893"
   },
   {
     "url": "https://github.com/nickytonline/pomerium-quest",
@@ -1559,11 +1478,11 @@
   {
     "url": "https://github.com/Ombosoft/paint-match",
     "repo": "Ombosoft/paint-match",
-    "reason": "الصفحة فارغة بعد 6 ثوانٍ",
+    "reason": "الصفحة فارغة (لا عناصر مرئية ولا نص) بعد التشغيل التجريبي",
     "license": "Apache-2.0",
-    "date": "2026-11-20",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/44804393723"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45820086634"
   },
   {
     "url": "https://github.com/tassaron/jezzball-transgender",
@@ -1613,11 +1532,11 @@
   {
     "url": "https://github.com/praghus/chwat",
     "repo": "praghus/chwat",
-    "reason": "فشل البناء: فشل الأمر: ['yarn', 'install'] (رمز 1)",
+    "reason": "فشل البناء: فشل الأمر: ['yarn', 'install'] (رمز 1) — error chwat@1.0.1: The engine \"node\" is incompatible with this module. Expected version \"12.x\". Got \"22.23.5\" | error Found incompatible module. | info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.",
     "license": "MIT",
-    "date": "2026-11-20",
-    "attempts": 1,
-    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/44815204482"
+    "date": "2026-11-26",
+    "attempts": 2,
+    "run_url": "https://github.com/ayssourlonas-droid/khayal-control/actions/runs/45819802174"
   },
   {
     "url": "https://github.com/chenzhiyong1994/unverified-survivors",

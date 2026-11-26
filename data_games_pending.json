@@ -2566,5 +2566,248 @@
       "type": "web",
       "category": "0thernes"
     }
+  },
+  {
+    "id": 131,
+    "imported_at": "2026-11-26T13:00:05Z",
+    "release_year": "2026",
+    "category_tags": [
+      "angular",
+      "browser-game",
+      "pokemon"
+    ],
+    "main_scene": {
+      "title_ar": "Pokemon Roulette Game",
+      "title_en": "Pokemon Roulette Game",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/pokemon-roulette-game/_cover.webp"
+    },
+    "details_scene": {
+      "description": "Interactive Pokémon roulette game built with Angular — test your luck in a fun, fast, and engaging web experience.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/pokemon-roulette-game/",
+      "developer": "antonio-gaskin",
+      "license": "MIT",
+      "source_url": "https://github.com/antonio-gaskin/pokemon-roulette-game",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "angular"
+    }
+  },
+  {
+    "id": 132,
+    "imported_at": "2026-11-26T13:14:54Z",
+    "release_year": "2026",
+    "category_tags": [
+      "browser-game",
+      "game-engine",
+      "gamepad"
+    ],
+    "main_scene": {
+      "title_ar": "Super Bash Folds",
+      "title_en": "Super Bash Folds",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/super-bash-folds/_cover.webp"
+    },
+    "details_scene": {
+      "description": "A fast, moddable open-source platform fighter for the browser. Add fighters and stages as self-contained packs.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/super-bash-folds/",
+      "developer": "blancmathis",
+      "license": "MIT",
+      "source_url": "https://github.com/blancmathis/Super_Bash_Folds",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "browser-game"
+    }
+  },
+  {
+    "id": 133,
+    "imported_at": "2026-11-26T13:23:23Z",
+    "release_year": "2026",
+    "category_tags": [
+      "ai-game",
+      "alchemy-game",
+      "browser-game"
+    ],
+    "main_scene": {
+      "title_ar": "Llm Alchemy",
+      "title_en": "Llm Alchemy",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/llm-alchemy/_cover.webp"
+    },
+    "details_scene": {
+      "description": "The original infinite AI alchemy game. Combine elements to discover anything: an LLM invents every new element and an image model paints it. Free in your browser, no account. Inspired by Little Alchemy.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/llm-alchemy/",
+      "developer": "sshh12",
+      "license": "MIT",
+      "source_url": "https://github.com/sshh12/llm_alchemy",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "ai-game"
+    }
+  },
+  {
+    "id": 134,
+    "imported_at": "2026-11-26T13:39:27Z",
+    "release_year": "2026",
+    "category_tags": [
+      "3d",
+      "3d-engine",
+      "creative-coding"
+    ],
+    "main_scene": {
+      "title_ar": "Openworld Js",
+      "title_en": "Openworld Js",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/openworld-js/_cover.webp"
+    },
+    "details_scene": {
+      "description": "A 40kb+ webgl library, with concise code and extensive world sandbox! World engine prioritizes first-person view!The world is your viewpoint.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/openworld-js/",
+      "developer": "kohunglee",
+      "license": "MIT",
+      "source_url": "https://github.com/kohunglee/openworld-js",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "3d"
+    }
+  },
+  {
+    "id": 135,
+    "imported_at": "2026-11-26T13:43:52Z",
+    "release_year": "2026",
+    "category_tags": [
+      "game",
+      "html",
+      "javascript"
+    ],
+    "main_scene": {
+      "title_ar": "Teti",
+      "title_en": "Teti",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/teti/_cover.webp"
+    },
+    "details_scene": {
+      "description": "Modern Tetris clone with many modes and customisations",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/teti/",
+      "developer": "TitanPlayz100",
+      "license": "MIT",
+      "source_url": "https://github.com/TitanPlayz100/teti",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "game"
+    }
+  },
+  {
+    "id": 136,
+    "imported_at": "2026-11-26T13:51:31Z",
+    "release_year": "2026",
+    "category_tags": [
+      "bootstrap",
+      "canvas",
+      "css3"
+    ],
+    "main_scene": {
+      "title_ar": "Games Tools",
+      "title_en": "Games Tools",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/games-tools/_cover.webp"
+    },
+    "details_scene": {
+      "description": "A web application featuring an engaging jigsaw puzzle and caro game and versatile image processing tools (square crop, grid splitter, resizer). Built with HTML, CSS, JavaScript, jQuery, and Bootstrap.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/games-tools/",
+      "developer": "TranHuuDat2004",
+      "license": "MIT",
+      "source_url": "https://github.com/TranHuuDat2004/games_tools",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "bootstrap"
+    }
+  },
+  {
+    "id": 137,
+    "imported_at": "2026-11-26T13:58:13Z",
+    "release_year": "2026",
+    "category_tags": [
+      "alpha-beta-pruning",
+      "artificial-intelligence",
+      "browser-game"
+    ],
+    "main_scene": {
+      "title_ar": "XOTrix",
+      "title_en": "XOTrix",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/xotrix/_cover.webp"
+    },
+    "details_scene": {
+      "description": "A browser-native Tic-Tac-Toe game with configurable minimax AI, local statistics, replay sharing, themes, and responsive UI.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/xotrix/",
+      "developer": "vincenzo-afk",
+      "license": "MIT",
+      "source_url": "https://github.com/vincenzo-afk/XOTrix",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "alpha-beta-pruning"
+    }
+  },
+  {
+    "id": 138,
+    "imported_at": "2026-11-26T14:05:12Z",
+    "release_year": "2025",
+    "category_tags": [
+      "browser",
+      "canvas2d",
+      "game"
+    ],
+    "main_scene": {
+      "title_ar": "Gra",
+      "title_en": "Gra",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/gra/_cover.webp"
+    },
+    "details_scene": {
+      "description": "Pure JavaScript Metroidvania game experiment",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/gra/",
+      "developer": "tmptrash",
+      "license": "MIT",
+      "source_url": "https://github.com/tmptrash/gra",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "browser"
+    }
+  },
+  {
+    "id": 139,
+    "imported_at": "2026-11-26T14:11:21Z",
+    "release_year": "2025",
+    "category_tags": [
+      "japanese",
+      "typingtest",
+      "web-game"
+    ],
+    "main_scene": {
+      "title_ar": "Taipingu",
+      "title_en": "Taipingu",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/taipingu/_cover.webp"
+    },
+    "details_scene": {
+      "description": "Japanese Typing Game for everyone",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/taipingu/",
+      "developer": "entibo",
+      "license": "MIT",
+      "source_url": "https://github.com/entibo/taipingu",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "japanese"
+    }
   }
 ]
