@@ -2809,5 +2809,42 @@
       "type": "web",
       "category": "japanese"
     }
+  },
+  {
+    "id": 140,
+    "imported_at": "2026-11-26T23:09:47Z",
+    "release_year": "2026",
+    "category_tags": [
+      "2048",
+      "agent-skills",
+      "bevy"
+    ],
+    "main_scene": {
+      "title_ar": "Rea Games",
+      "title_en": "Rea Games",
+      "app_rating": 0.0,
+      "poster_url": "https://khayal-control.pages.dev/games/rea-games/_cover.webp"
+    },
+    "details_scene": {
+      "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+      "background_url": "",
+      "play_url": "https://khayal-control.pages.dev/games/rea-games/",
+      "developer": "erkamyaman",
+      "license": "MIT",
+      "source_url": "https://github.com/erkamyaman/rea-games",
+      "orientation": "portrait",
+      "type": "web",
+      "category": "2048"
+    },
+    "tags_ar": {
+      "2048": "2048"
+    },
+    "translation": {
+      "engine": "google",
+      "fields": [
+        "التصنيفات"
+      ],
+      "mode": "machine"
+    }
   }
 ]
