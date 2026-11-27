@@ -40,16 +40,7 @@
       "license_url": "http://creativecommons.org/licenses/publicdomain/",
       "source_url": "https://archive.org/details/HealthYo1953",
       "audio_tracks": [],
-      "subtitle_tracks": [
-        {
-          "lang": "en",
-          "url": "https://archive.org/download/HealthYo1953/HealthYo1953.asr.srt"
-        },
-        {
-          "lang": "en",
-          "url": "https://archive.org/download/HealthYo1953/HealthYo1953.asr.vtt"
-        }
-      ],
+      "subtitle_tracks": [],
       "background_url": "",
       "duration_min": 0,
       "category": ""
